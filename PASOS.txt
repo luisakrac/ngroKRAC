@@ -1,0 +1,10 @@
+después de hacer todos los pasos ngrok ya estará conectado puedes volver a termux y estará ejecutado, cuando salgas y entres en termux para volver a ejecutarlo no es necesario hacer todos los pasos solo pon esto y dale  enter.👇
+
+ ./ngrok (ejemplo) 8080
+                     👆 
+aquí ya es cosa de ustedes para el uso q le den.
+
+
+
+canal de youtube...👇👇👇👇👇👇👇👇👇
+https://m.youtube.com/channel/UCw7b5atl0-ucJlS7A7qm8IA/videos
